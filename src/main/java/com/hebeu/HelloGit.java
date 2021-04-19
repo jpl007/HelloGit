@@ -9,6 +9,7 @@ public class HelloGit {
 	    System.out.println("分支添加");
 	    System.out.println("更改了邮件地址");
 	    System.out.println("在线更新");
+	    System.out.println("克隆了一下");
 
     }
 
